@@ -1,0 +1,6 @@
+{
+  "name": "Telegram E2EE",
+  "description": "A Telegram-style real-time messaging app featuring end-to-end encryption, phone auth, media sharing, and instant cloud database sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
